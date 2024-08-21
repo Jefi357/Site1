@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="zn-CN" data-data="网站主体" data-version="Thu Aug 15 2024 00:22:56 GMT-0300" class="网站主体" data-city="São Paulo/Brazil" data-developer="daanrox.com">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+                            <link rel="icon" type="image/png" sizes="32x32" href="https://teste.pescadoresdasorte.com/storage/uploads/HCAjXI1mCbEweApxcuo2o93i8AhCezwvCqSKYJrE.png">
+        
+                    <link rel="icon" type="image/png" sizes="32x32" href="https://teste.pescadoresdasorte.com/storage/uploads/HCAjXI1mCbEweApxcuo2o93i8AhCezwvCqSKYJrE.png">
+        
+        <link rel="stylesheet" href="https://teste.pescadoresdasorte.com/assets/css/fontawesome.min.css">
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&family=Roboto+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100&display=swap" rel="stylesheet">        <title>TESTE</title>
+
+        <!-- CSRF Token -->
+        <meta name="csrf-token" content="FVVCAOUMEDGTeFHRJAG06Nm5nU4SV2HwFyUy2dsE">
+
+                <script>
+            var customData = {"id":1,"font_family_default":"\u0027Roboto Condensed\u0027, sans-serif","primary_color":"#f16202","primary_opacity_color":"#feeaaa","secundary_color":"#ffbc85","gray_dark_color":"#ffffff","gray_light_color":"#702d00 ","gray_medium_color":"#d4d4d4","gray_over_color":"#191A1E","title_color":"#ffffff","text_color":"#98A7B5","sub_text_color":"#656E78","placeholder_color":"#4D565E","background_color":"#086338","background_base":"#f68e39","background_base_dark":"#f68e39","carousel_banners":"#f68e39","carousel_banners_dark":"#000000","sidebar_color":"#0e673d","sidebar_color_dark":"#0e673d","navtop_color":"#ffffff0e","navtop_color_dark":"#f16202","side_menu":"#dbdbdb","side_menu_dark":"#0e673d","input_primary":"#ffffff","input_primary_dark":"#ffffff","footer_color":"#919191","footer_color_dark":"#0f1923","card_color":"#ababab","card_color_dark":"#1E2024","border_radius":".25rem","custom_css":":is(.dark .navtop-color) {\n    background-color: #f16202 !important;\n    background-color: #083c25;\n    border-bottom: 1px solid #b5900a;\n    position: fixed;\n  }\n\n\n.roxDepositButton[data-v-e7bc97e7] {\n    background-color: var(--ci-primary-opacity-color);\n    background-color: #feeaaa !important;\n    color: #034d2c !important;\n}\n\n\n.ui-button-blue {\n    width: auto;\n    padding: 0 1.25rem;\n    height: 2.5rem;\n    flex: none;\n    font-weight: 600;\n    color: #000000;\n    background-color: #f16202 !important;\n}\n\n.bg-\\[var\\(--ci-primary-opacity-color\\)\\] {\n    background-color: #033921 !important;\n}\n\n.roxQrCode\u003Ediv[data-v-06d9ac07] {\n    background-color: #033921 !important;\n    border-radius: 0 0 8px 8px;\n}\n\nbutton.mt-5.w-full.text-white.px-4.py-2.transition.duration-700 {\n    color: #034d2c;\n}\n\n.dark\\:text-gray-700:is(.dark *) {\n    --tw-text-opacity: 1;\n    color: rgb(254 234 170) !important;\n}\n\n.p-2[data-v-06d9ac07][style*=\u0022color: white\u0022] {\n  color: black !important;\n}\n\n\n\n.title-gains h1[data-v-ce35ac32] {\n    color: #fff;\n    font-weight: 800;\n    font-size: 20px !important;\n}\n\n.btn-gradient {\n    background: var(--ci-primary-color);\n    background: linear-gradient(185deg, #0d26e6 0%, #0d266e 68%) !important;\n}\n\n\n.button-primary:hover {\n    background-color: #0c3c9e !important;\n}\n\n\n\n.text-muted-500 {\n    --tw-text-opacity: 1;\n    color: rgb(255 255 255) !important;\n}\n\n\n\n\n\n\n\n\n.w-full.h-full[alt=\u0022Deposit\u0022] {\n    margin-top: -16px;\n}\n\n\n:is(.dark .sidebar-color) {\n    background-color: #f26c12 !important;\n}\n\n\nbutton.w-20.md\\:w-25.transform.scale-70.md\\:scale-100.lg\\:transform-none.px-1.md\\:px-3.md\\:p-2.lg\\:p3 {\n    background-color: #702d00 !important;\n    border: 1px solid #702d00 !important;\n    color: #ffffff !important;\n    border-radius: 8px !important;\n}\n\n\n.ui-button-blue {\n    width: auto;\n    padding: 0 1.25rem;\n    height: 2.5rem;\n    flex: none;\n    font-weight: 600;\n    color: #ffffff !important;\n    background-color: var(--ci-primary-opacity-color);\n}\n\n.dark\\:bg-gray-800:is(.dark *) {\n    --tw-bg-opacity: 1;\n    background-color: rgb(241 99 3) !important;\n}\n\n.dark\\:text-gray-400:is(.dark *) {\n    --tw-text-opacity: 1;\n    color: rgb(255 255 255) !important;\n}\n\n.dark\\:border-gray-700:is(.dark *) {\n    --tw-border-opacity: 1;\n    border-color: rgb(36 38 43 \/ 0%) !important;\n}\n\n.dark\\:bg-gray-700:is(.dark *) {\n    --tw-bg-opacity: 1;\n    background-color: rgb(0 0 0 \/ 0%) !important;\n}\n\n.odd\\:dark\\:bg-gray-900:is(.dark *):nth-child(odd) {\n    --tw-bg-opacity: 1;\n    background-color: rgb(28 30 34 \/ 0%) !important;\n}\n\n.dark\\:bg-gray-700:is(.dark *) {\n    --tw-bg-opacity: 1;\n    background-color: rgb(123 51 2) !important;\n}\n\n.even\\:dark\\:bg-gray-800:is(.dark *):nth-child(2n) {\n    --tw-bg-opacity: 1;\n  background-color: rgb(25 26 30 \/ 0%) !important;\n}\n\n.dark\\:bg-purple-600:is(.dark *) {\n    --tw-bg-opacity: 1;\n    background-color: rgb(0 0 0) !important;\n}\n\nh1.mb-4.text-3xl.leading-none.text-gray-900.md\\:text-3xl.lg\\:text-3xl.dark\\:text-white {\n    display: none !important;\n}\n\n.bg-\\[var\\(--ci-primary-opacity-color\\)\\] {\n    background-color: #521f0e !important;\n}\n\n.fa-home-alt:before, .fa-home-lg-alt:before, .fa-home:before, .fa-house:before {\n    content: \u0022\\f015\u0022;\n    color: #ffff !important;\n}\n\n.fa-home-alt:before, .fa-home-lg-alt:before, .fa-home:before, .fa-house:before {\n    content: \u0022\\f015\u0022;\n    color: #ffff !important;\n}\n\n\n.fa-gift:before {\n    content: \u0022\\f015\u0022;\n    color: #ffff !important;\n}\n\n\n.fa-user-plus:before {\n    content: \u0022\\f015\u0022;\n    color: #ffff !important;\n}\n\n\n.fa-headset:before {\n    content: \u0022\\f015\u0022;\n    color: #ffff !important;\n}\n\n.fa-user:before {\n    content: \u0022\\f015\u0022;\n    color: #ffff !important;\n}\n\n.text-\\[12px\\] {\n    font-size: 12px;\n    color: #ffff !important;\n}","custom_js":"\u003Cdiv class=\u0022w-full relative\u0022\u003E\n    \u003Cdiv class=\u0022text-[var(--theme-text-color)] font-bold my-[20px] text-[22px] w-full min-h-[24px] text-center leading-[1.3]\u0022\u003E\n        \u003Cspan class=\u0022w-full -mb-[2.58824px] pb-[-2.58824px] text-[22px] inline-block leading-[0] overflow-hidden\u0022\u003E\n            \u003Cspan class=\u0022text-[14.9067px] sm:text-[22px] inline-block w-full\u0022\u003E\n                \u003Cspan class=\u0022leading-[1.2] [overflow:initial] text-center overflow-ellipsis align-middle\u0022 style=\u0022-webkit-line-clamp: 5;\u0022\u003E\n                    \ud83c\udf81 Venha se Divertir no maior site do Brasil\n                \u003C\/span\u003E\n            \u003C\/span\u003E\n        \u003C\/span\u003E\n    \u003C\/div\u003E\n    \u003Cdiv class=\u0022text-[var(--theme-text-color)] pb-[20px] sm:pb-0 sm:h-[405px] text-[14px] leading-[1.56] text-left w-full\u0022\u003E\n        \u003Cdiv class=\u0022w-full h-full px-[30px]\u0022\u003E\n            \u003Cdiv class=\u0022sm:h-full overflow-x-hidden overflow-y-scroll [scrollbar-width:none]\u0022\u003E\n                \u003Cdiv class=\u0022my-scrollbar-content\u0022\u003E\n                    \u003Cdiv class=\u0022D4IXpi08hh8lVGgzIBUz\u0022\u003E\n                        \u003Cdiv\u003E\n                            \u003Cp class=\u0022mb-0\u0022\u003E\n                                \u2708\ufe0fClique no canal:\n                                \u003Ca href=\u0022https:\/\/t.me\/hmandax\u0022 target=\u0022_blank\u0022 rel=\u0022noopener\u0022\u003E\n                                    \u003Cspan style=\u0022color: #ffeb00;\u0022\u003ETelegram\u003C\/span\u003E\n                                \u003C\/a\u003E\n                                \u003Cbr\u003E\ud83d\udcf2Baixe o site oficial do APP:\n                                \u003Ca href=\u0022https:\/\/t.me\/hmandax\u0022 target=\u0022_blank\u0022 rel=\u0022noopener\u0022\u003E\n                                    \u003Cspan style=\u0022color: #ffeb00;\u0022\u003EHM AND AX\u200b\u200b\u003C\/span\u003E\n                                \u003C\/a\u003E\n                                \u003Cbr\u003E\u2764\ufe0fConvide amigos e ganhe\n                                \u003Cspan style=\u0022color: #ffeb00;\u0022\u003E10 mil\u003C\/span\u003E\n                                reais por dia n\u00e3o \u00e9 sonho\u2764\ufe0f\n                                \u003Cbr\u003E\ud83c\udf81B\u00f4nus de primeiro dep\u00f3sito para novos usu\u00e1rios\n                                \u003Cspan style=\u0022color: #ffeb00;\u0022\u003E10%\u003C\/span\u003E\n                                \u003Cbr\u003E\ud83c\udf81 B\u00f4nus convite:\n                                \u003Cspan style=\u0022color: #ffeb00;\u0022\u003ER$ 10\u003C\/span\u003E\n                                por pessoa\n                                \u003Cbr\u003E\ud83c\udf81 Convide amigos, compartilhe e ganhe dinheiro! Comiss\u00e3o\n                                \u003Cspan style=\u0022color: #ffeb00;\u0022\u003E at\u00e9 2%\u003C\/span\u003E\n                                \u003Cbr\u003E\ud83c\udf81 Recompensas e privil\u00e9gios de associa\u00e7\u00e3o VIP de at\u00e9\n                                \u003Cspan style=\u0022color: #ffeb00;\u0022\u003ER$ 777.777\u003C\/span\u003E\n                                \u003Cbr\u003E\ud83d\udc49 Passos: Visitar \u2192 Eventos\/Promo\u00e7\u00f5es \u2192 Recomendar amigos \u2192 Receber\/Receber\n                            \u003C\/p\u003E\n                        \u003C\/div\u003E\n                    \u003C\/div\u003E\n                \u003C\/div\u003E\n            \u003C\/div\u003E\n        \u003C\/div\u003E\n    \u003C\/div\u003E\n\u003C\/div\u003E\n","custom_header":"","custom_body":"\u003Ca href=\u0022https:\/\/t.me\/hmandax\u0022 target=\u0022_blank\u0022 class=\u0022float1\u0022 id=\u0022float1\u0022\u003E\n  \u003Cimg class=\u0022icon\u0022 src=\u0022https:\/\/wordpress-731680-3807664.cloudwaysapps.com\/wp-content\/uploads\/2024\/04\/ActiveImg7532580654847733-1.gif\u0022\/\u003E\n\u003C\/a\u003E\n\u003Cbutton class=\u0022close-btn\u0022 onclick=\u0022hideFloat1()\u0022\u003E\u003Ci class=\u0022fa-regular fa-circle-xmark\u0022\u003E\u003C\/i\u003E\u003C\/button\u003E\n\n\u003Cstyle\u003E\n  :root {\n    --icon-color: #fff;\n    --icon-hover: #fff;\n    --background-color: #0060ff;\n    --background-hover: #0044b3;\n  }\n\n  .icon {\n    width: 110px;\n    height: 110px;\n    transform: scale(0.6) translate(15%, 28%);\n  }\n\n  .float1 {\n    position: fixed;\n    cursor: pointer;\n    width: 110px;\n    height: 110px;\n    bottom: 140px;\n    right: 0px;\n    transition: 1s;\n    z-index: 9000;\n  }\n\n  .close-btn {\n    position: fixed;\n    bottom: 200px; \/* Ajuste conforme necess\u00e1rio *\/\n    right: 10px; \/* Ajuste conforme necess\u00e1rio *\/\n    width: 20px;\n    height: 20px;\n   background-color: var(--ci-primary-color);\n    color: var(--ci-secundary-color);\n    border: none;\n    border-radius: 50%;\n    cursor: pointer;\n    z-index: 9001; \/* Um n\u00edvel acima da float2 *\/\n  }\n\n  .close-btn:hover {\n    background-color: var(--background-hover);\n  }\n\n  @keyframes pulse {\n    0% {\n      -webkit-box-shadow: 0 0 0 0 rgba(0, 96, 255, 1);\n    }\n\n    70% {\n      -webkit-box-shadow: 0 0 0 20px rgba(0, 96, 255, 0);\n    }\n\n    100% {\n      -webkit-box-shadow: 0 0 0 0 rgba(0, 96, 255, 0);\n    }\n  }\n\n\n\u003C\/style\u003E\n\n\u003Cscript\u003E\n  function hideFloat1() {\n    document.getElementById(\u0027float1\u0027).style.display = \u0027none\u0027;\n    document.querySelector(\u0027.close-btn\u0027).style.display = \u0027none\u0027;\n  }\n\u003C\/script\u003E\n\n\u003Ca href=\u0022\/home\/agents\u0022 class=\u0022float2\u0022 id=\u0022float2\u0022\u003E\n  \u003Cimg class=\u0022icon\u0022 src=\u0022\/storage\/rox\/rox_gif_post.gif\u0022\/\u003E\n\u003C\/a\u003E\n\u003Cbutton class=\u0022close-btn2\u0022 onclick=\u0022hideFloat2()\u0022\u003E\u003Ci class=\u0022fa-regular fa-circle-xmark\u0022\u003E\u003C\/i\u003E\u003C\/button\u003E\n\n\u003Cstyle\u003E\n  :root {\n    --icon-color: #fff;\n    --icon-hover: #fff;\n    --background-color: #0060ff;\n    --background-hover: #0044b3;\n  }\n\n \n  .float2 {\n    position: fixed;\n    cursor: pointer;\n    width: 110px;\n    height: 110px;\n    bottom: 230px;\n    right: 5px;\n    transition: 1s;\n    z-index: 9000;\n  }\n\n  .close-btn2 {\n    position: fixed;\n    bottom: 280px; \/* Ajuste conforme necess\u00e1rio *\/\n    right: 10px; \/* Ajuste conforme necess\u00e1rio *\/\n    width: 20px;\n    height: 20px;\n    background-color: var(--ci-primary-color);\n    color: var(--ci-secundary-color);\n    border: none;\n    border-radius: 50%;\n    cursor: pointer;\n    z-index: 9001; \/* Um n\u00edvel acima da float2 *\/\n  }\n\n  .close-btn2:hover {\n    background-color: var(--background-hover);\n  }\n\n\n\n\n\u003C\/style\u003E\n\n\u003Cscript\u003E\n  function hideFloat2() {\n    document.getElementById(\u0027float2\u0027).style.display = \u0027none\u0027;\n    document.querySelector(\u0027.close-btn2\u0027).style.display = \u0027none\u0027;\n  }\n\u003C\/script\u003E\n\n.\n\n\n\u003Cscript\u003E\ndocument.addEventListener(\u0022DOMContentLoaded\u0022, function() {\n    \/\/ Fun\u00e7\u00e3o para ativar a aba\n    function activateTab(tabId) {\n        \/\/ Desativa todas as abas e conte\u00fados\n        document.querySelectorAll(\u0027.tab\u0027).forEach(function(tab) {\n            tab.classList.remove(\u0027active\u0027);\n        });\n        document.querySelectorAll(\u0027.tab-content\u0027).forEach(function(content) {\n            content.classList.add(\u0027desactive\u0027);\n        });\n\n        \/\/ Ativa a aba e o conte\u00fado correspondente\n        let tab = document.getElementById(tabId + \u0027-tab\u0027);\n        let content = document.getElementById(tabId + \u0027-content\u0027);\n        if (tab \u0026\u0026 content) {\n            tab.classList.add(\u0027active\u0027);\n            content.classList.remove(\u0027desactive\u0027);\n        }\n    }\n\n    \/\/ Verifica se h\u00e1 um hash na URL\n    if (window.location.hash) {\n        let targetId = window.location.hash.substring(1); \/\/ Remove o #\n        activateTab(targetId);\n    }\n\n    \/\/ Adiciona event listeners para as abas\n    document.querySelectorAll(\u0027.tab\u0027).forEach(function(tab) {\n        tab.addEventListener(\u0027click\u0027, function() {\n            let id = this.id.replace(\u0027-tab\u0027, \u0027\u0027);\n            window.location.hash = id;\n            activateTab(id);\n        });\n    });\n});\n\n\u003C\/script\u003E","created_at":"2024-01-01T17:36:03.000000Z","updated_at":"2024-08-06T22:27:55.000000Z","instagram":null,"facebook":"","telegram":"https:\/\/t.me\/hmandax","twitter":"","whastapp":"","youtube":""}; 
+            localStorage.setItem('customData', JSON.stringify(customData));
+
+        </script>
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+                // Função para buscar parâmetros da URL
+                function getQueryParams() {
+                    const params = {};
+                    const queryString = window.location.search.substring(1);
+                    const pairs = queryString.split("&");
+                    for (let i = 0; i < pairs.length; i++) {
+                        const pair = pairs[i].split("=");
+                        params[decodeURIComponent(pair[0])] = decodeURIComponent(pair[1]);
+                    }
+                    return params;
+                }
+
+                // Busca o parâmetro 'code' e salva no localStorage
+                const params = getQueryParams();
+                if (params.code) {
+                    localStorage.setItem('code', params.code);
+                }
+            });
+        </script>
+
+        <style>
+            body{
+                font-family: &#039;Roboto Condensed&#039;, sans-serif;
+            }
+            :root {
+                --ci-primary-color: #f16202;
+                --ci-primary-opacity-color: #feeaaa;
+                --ci-secundary-color: #ffbc85;
+                --ci-gray-dark: #ffffff;
+                --ci-gray-light: #702d00 ;
+                --ci-gray-medium: #d4d4d4;
+                --ci-gray-over: #191A1E;
+                --title-color: #ffffff;
+                --text-color: #98A7B5;
+                --sub-text-color: #656E78;
+                --placeholder-color: #4D565E;
+                --background-color: #086338;
+                --standard-color: #1C1E22;
+                --shadow-color: #111415;
+                --page-shadow: linear-gradient(to right, #111415, rgba(17, 20, 21, 0));
+                --autofill-color: #f5f6f7;
+                --yellow-color: #FFBF39;
+                --yellow-dark-color: #d7a026;
+                --border-radius: .25rem;
+                --tw-border-spacing-x: 0;
+                --tw-border-spacing-y: 0;
+                --tw-translate-x: 0;
+                --tw-translate-y: 0;
+                --tw-rotate: 0;
+                --tw-skew-x: 0;
+                --tw-skew-y: 0;
+                --tw-scale-x: 1;
+                --tw-scale-y: 1;
+                --tw-scroll-snap-strictness: proximity;
+                --tw-ring-offset-width: 0px;
+                --tw-ring-offset-color: #fff;
+                --tw-ring-color: rgba(59,130,246,.5);
+                --tw-ring-offset-shadow: 0 0 #0000;
+                --tw-ring-shadow: 0 0 #0000;
+                --tw-shadow: 0 0 #0000;
+                --tw-shadow-colored: 0 0 #0000;
+
+                --input-primary: #ffffff;
+                --input-primary-dark: #ffffff;
+
+                --carousel-banners: #f68e39;
+                --carousel-banners-dark: #000000;
+
+
+                --sidebar-color: #0e673d !important;
+                --sidebar-color-dark: #0e673d !important;
+
+
+                --navtop-color #ffffff0e;
+                --navtop-color-dark: #f16202;
+
+
+                --side-menu #dbdbdb;
+                --side-menu-dark: #0e673d;
+
+                --footer-color #919191;
+                --footer-color-dark: #0f1923;
+
+                --card-color #ababab;
+                --card-color-dark: #1E2024;
+            }
+            .navtop-color{
+                background-color: #f16202 !important;
+            }
+            :is(.dark .navtop-color) {
+                background-color: #f16202 !important;
+            }
+
+            .bg-base {
+                background-image: url('/storage/rox/2-1-11.png') !important;
+                background-repeat: repeat;
+                background-size: auto;
+                background-color: #f68e39 !important;
+            }
+            :is(.dark .bg-base) {
+                background-image: url('/storage/rox/2-1-11.png') !important;
+                background-repeat: repeat;
+                background-size: auto;
+                background-color: #f68e39 !important;
+            }
+        </style>
+
+                    <style>
+                :is(.dark .navtop-color) {
+    background-color: #f16202 !important;
+    background-color: #083c25;
+    border-bottom: 1px solid #b5900a;
+    position: fixed;
+  }
+
+
+.roxDepositButton[data-v-e7bc97e7] {
+    background-color: var(--ci-primary-opacity-color);
+    background-color: #feeaaa !important;
+    color: #034d2c !important;
+}
+
+
+.ui-button-blue {
+    width: auto;
+    padding: 0 1.25rem;
+    height: 2.5rem;
+    flex: none;
+    font-weight: 600;
+    color: #000000;
+    background-color: #f16202 !important;
+}
+
+.bg-\[var\(--ci-primary-opacity-color\)\] {
+    background-color: #033921 !important;
+}
